@@ -26,6 +26,6 @@ bara här går att finna en från japan för $65, även om det är mycket i kron
 
 https://www.ebay.com/itm/375557110624
 
-{{< image src="https://i.imgur.com/iiq0Lz8.jpeg" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://i.imgur.com/eS3RrCi.jpeg" position="center" style="border-radius: 8px;" >}}
 
 så skynda, fynda eller vad man nu skall säga. på grund av slutarprioriteten går den att använda för totala nybörjare, men blir också en alldeles utmärkt resekamera för den mer erfarne fotografen.
