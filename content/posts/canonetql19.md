@@ -26,7 +26,7 @@ bara här går att finna en från japan för $65, även om det är mycket i kron
 
 https://www.ebay.com/itm/375557110624
 
-{{< image src="gustav.jpg" position="center" style="border-radius: 8px;" >}}
+{{< image src="/gustav.jpg" position="center" style="border-radius: 8px;" >}}
 
 i bilden ovan ser man resultatet av att endast ha fem bländarblad. eftersom det rör sig om en kamera från tidigt 70-tal har den en tendens att få stora solkatter eller vad det nu heter på bilderna. med endast fem bländarblad blir det i form av pentagoner. det syns också i bilder tagna med stor bländare, att "bokehn" även den är i pentagon-form.
 
