@@ -10,6 +10,7 @@ paginate = 5
   showMenuItems = 3
   fullWidthTheme = false
   centerTheme = true
+  favicon = "/favicon.png"
     [languages]
   [languages.en.params]
     title = "analog-riktning"
@@ -23,6 +24,12 @@ paginate = 5
     [languages.en.params.logo]
       logoText = "analog // riktning"
       logoHomeLink = "/"
+      [params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "erikalvner"
+  site = "erikalvner"
 
 [languages.en.menu]
   [[languages.en.menu.main]]

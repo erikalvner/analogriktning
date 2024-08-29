@@ -3,7 +3,7 @@ title= "varför?"
 date= "2024 // 08 // 25"
 author= "erik alvner"
 hideComments= true
-cover= "samsungcrt002.jpg"
+cover= "voigtlanderbessar2.jpg"
 +++
 
 ## varför sajten?
