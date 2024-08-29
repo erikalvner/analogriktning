@@ -3,7 +3,7 @@ title= "varför?"
 date= "2024 // 08 // 25"
 author= "erik alvner"
 hideComments= true
-cover= "voigtlanderbessar2.jpg"
+cover= "/smakameror/voigtlanderbessar2.jpg"
 +++
 
 ## varför sajten?
