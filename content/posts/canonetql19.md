@@ -3,7 +3,7 @@ title = "canonet ql19 giii // en billigare men värdig motståndare"
 date = "2024-08-25T21:21:45+02:00"
 author = "erik alvner"
 authorTwitter = "erikalvner" #do not include @
-cover = "canonet.jpg"
+cover = "/smakameror/canonet.jpg"
 coverCaption = "min canon canonet ql19 giii, tidigt 70-tal. riktpris ~500-1200 beroende på skick och medföljande tillbehör (t.ex. blixt)."
 tags = ["", ""]
 keywords = ["", ""]
@@ -26,7 +26,7 @@ bara här går att finna en från japan för $65, även om det är mycket i kron
 
 https://www.ebay.com/itm/375557110624
 
-{{< image src="/gustav.jpg" position="center" style="border-radius: 8px;" >}}
+{{< image src="/smakameror/gustav.jpg" position="center" style="border-radius: 8px;" >}}
 
 i bilden ovan ser man resultatet av att endast ha fem bländarblad. eftersom det rör sig om en kamera från tidigt 70-tal har den en tendens att få stora solkatter eller vad det nu heter på bilderna. med endast fem bländarblad blir det i form av pentagoner. det syns också i bilder tagna med stor bländare, att "bokehn" även den är i pentagon-form.
 
