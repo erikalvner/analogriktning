@@ -12,6 +12,7 @@ showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
+draft = true
 +++
 
 den här dök upp i en facebookgrupp jag är med i som del av en grupp apparater, bland annat två toppmatade vhs-spelade och någon ännu okänd apparat. tyvärr har skuffen på min bil, där spelarna ligger, gått i baklås. kitet med grejer fanns i varje fall att hämta i norrtälje, inte jättelångt ifrån uppsala.

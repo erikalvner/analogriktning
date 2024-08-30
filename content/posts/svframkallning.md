@@ -54,6 +54,13 @@ skillnaden mellan den här och den du antagligen skaffar om du köper en är att
 
 utöver dosan behöver du också kemikalier att framkalla med. vi kan börja med det viktigaste.
 
+**köp inom eu**
+
+- https://www.nijmegenpasfotofilm.nl/shop/film-chemistry-darkroom-products/paterson-products/darkroom-paterson-film-tank-2x35reels/
+
+**köp i sverige**
+- https://www.photax.se/product/dosa
+
 ---
 
 >**framkallaren - adox rodinal. kostnad: ungefär 180kr.**
@@ -74,6 +81,12 @@ alla svartvita framkallare skiljer sig lite och ingen ger identiskt resultat. ef
 ---
 
 från början tillverkades rodinal av det tyska företaget agfa som var väldigt stora inom fotovärlden på 1900-talet. de har sedemera slutat med tillverkningen, men adox har enligt egen utsago anställt kemister från agfa och tagit fram en helt identisk produkt eftersom produkten var och fortfarande är mycket populär. andra tillverkare av rodinal finns, som t.ex. foma, men jag har själv inte testat någon annan än just adox.
+
+**köp inom eu**
+- https://www.nijmegenpasfotofilm.nl/shop/film-chemistry-darkroom-products/adox-products/chem-dev-rodinal-liquid-500ml/
+
+**köp i sverige**
+- https://www.photax.se/product/adox-rodinal-500ml-filmframkallare
 
 ---
 
@@ -96,6 +109,12 @@ fomapan är forna tjeckoslovakiens statliga tillverkare av film, kemi och fotout
 - - hållbarheten på den färdiga, utspädda vätskan är en till två månader
 ---
 
+**köp inom eu**
+- https://www.nijmegenpasfotofilm.nl/shop/film-chemistry-darkroom-products/foma-products/foma-fomafix-universal-rapid-fixer-500-ml-concentrate/
+
+**köp i sverige**
+- https://www.photax.se/product/foma-fomafix-for-film-papper-500ml
+
 ---
 
 >**stoppbad - hemtillverkad. kostnad: några enstaka kronor.**
@@ -114,5 +133,7 @@ därför har jag istället valt att fylla en flaska med vatten och sedan hälla 
 - köpt består bara av ättiksyra
 - - du kan därför enkelt blanda eget stoppbad med lite vatten och en skvätt ättika
 ---
+
+
 
 >**nu måste jag gå ut med min hund, men fortsättning följer!**
