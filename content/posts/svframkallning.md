@@ -44,8 +44,6 @@ i det här inlägget kommer jag att gå in närmre på varje del, men det som be
 **så - då går vi igenom varje del för sig**
 
 >**framkallningsdosa - kostnad: ungefär 350kr**
-
-
 {{< figure src="/svframkall/dosa.jpg" alt="framkallningsdosa" position="center" style="border-radius: 8px;" caption="framkallningsdosan jag använder i det här exemplet." captionPosition="right" captionStyle="color: darkblue;" >}}
 
 de flesta använder sig av patersons standardmodell med två spolar i. den är bra och förhållandevis billig med ett snittpris på ungefär 350 riksdaler. i det här inlägget kommer jag dock använda mig av en äldre variant av paterson framkallningsdosa som jag hittade på en loppis för några år sedan för den hiskeliga summan 20kr.**
@@ -64,7 +62,6 @@ utöver dosan behöver du också kemikalier att framkalla med. vi kan börja med
 ---
 
 >**framkallaren - adox rodinal. kostnad: ungefär 180kr.**
-
 {{< figure src="/svframkall/rodinal.jpg" alt="adox rodinal framkallningsvätska" position="center" style="border-radius: 8px;" caption="min framkallare of choice." captionPosition="right" captionStyle="color: darkblue;" >}}
 
 alla svartvita framkallare skiljer sig lite och ingen ger identiskt resultat. eftersom syftet i den här guiden är att lära ut grundläggande kunskaper kring framkallning och förhoppningsvis uppmuntra nybörjare att ge sig in i det är rodinal ett utmärkt val. men varför?
@@ -91,7 +88,6 @@ från början tillverkades rodinal av det tyska företaget agfa som var väldigt
 ---
 
 >**fixer - fomafix. kostnad: ungefär 100kr.**
-
 {{< figure src="/svframkall/fix.jpg" alt="fomafix fixer" position="center" style="border-radius: 8px;" caption="mitt förstahandsval för billig fixer." captionPosition="right" captionStyle="color: darkblue;" >}}
 
 återigen har jag gjort valet av fixer efter kostnadskalkyl. fomafix tillverkas av företaget foma som också bland annat tillverkar en variant av rodinal samt filmer som fomapan och retropan.
@@ -118,7 +114,6 @@ fomapan är forna tjeckoslovakiens statliga tillverkare av film, kemi och fotout
 ---
 
 >**stoppbad - hemtillverkad. kostnad: några enstaka kronor.**
-
 {{< figure src="/svframkall/stopp.jpg" alt="hemmagjort stoppbad - vatten och ättika" position="center" style="border-radius: 8px;" caption="det är mycket enkelt att göra stoppbadet hemma eftersom det bara består av utspädd ättiksyra." captionPosition="right" captionStyle="color: darkblue;" >}}
 
 stoppbadet är till för att, precis som det låter som, stoppa framkallningen. det går att hoppa över förutsatt att man sköljer filmen tillräckligt många gånger och tillräckligt noggrant, men det rekommenderas starkt.
@@ -134,6 +129,14 @@ därför har jag istället valt att fylla en flaska med vatten och sedan hälla 
 - - du kan därför enkelt blanda eget stoppbad med lite vatten och en skvätt ättika
 ---
 
+> **termometer - adox. kostnad: ungefär 60kr**
+{{< figure src="/svframkall/termometer.jpg" alt="mörkrumstermometer" position="center" style="border-radius: 8px;" caption="mörkrumstermometer." captionPosition="right" captionStyle="color: darkblue;" >}}
+
+**köp inom eu (samma som på bilden)**
+- https://www.nijmegenpasfotofilm.nl/shop/film-chemistry-darkroom-products/adox-products/darkroom-adox-thermometer-small-nomercury/
+
+**köp i sverige**
+- https://www.gofoto.se/kamera-foto/analogt/morkrum/small-bw-thermometer-without-mercury
 
 
 >**nu måste jag gå ut med min hund, men fortsättning följer!**
