@@ -1,5 +1,5 @@
 +++
-title = "Det analoga behöver inte vara otympligt"
+title = "det analoga behöver inte vara otympligt"
 date = "2024-08-29T05:44:35+02:00"
 author = "erik alvner"
 authorTwitter = "erikalvner" #do not include @
