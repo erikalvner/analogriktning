@@ -1,5 +1,5 @@
 +++
-title = "framkallning av svartvit film"
+title = "svartvit framkallning --- processen"
 date = "2024-08-31T13:15:00+02:00"
 author = "erik alvner"
 authorTwitter = "erikalvner" #do not include @
