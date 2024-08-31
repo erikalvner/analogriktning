@@ -27,6 +27,7 @@ poängen med inlägget är alltså att
 - ta fram ett baspaket med bra, billiga och hållbara kemikalier
 - för eget bruk dokumentera den process jag använder mig av när jag framkallar
 
+---
 
 # vad behövs?
 
@@ -41,14 +42,19 @@ i det här inlägget kommer jag att gå in närmre på varje del, men det som be
 7. spruta
 8. termometer
 
-**så - då går vi igenom varje del för sig**
+**med det avklarat tänkte jag att vi 'djup'dyker i de enskilda komponenterna**
 
 >**framkallningsdosa - kostnad: ungefär 350kr**
-{{< figure src="/svframkall/dosa.jpg" alt="framkallningsdosa" position="center" style="border-radius: 8px;" caption="framkallningsdosan jag använder i det här exemplet." captionPosition="right" captionStyle="color: darkblue;" >}}
+{{< figure src="/svframkall/dosa.jpg" alt="framkallningsdosa" position="center" style="border-radius: 8px;" caption="" captionPosition="right" captionStyle="color: darkblue;" >}}
+**framkallningsdosan jag använder i det här exemplet.**
 
 de flesta använder sig av patersons standardmodell med två spolar i. den är bra och förhållandevis billig med ett snittpris på ungefär 350 riksdaler. i det här inlägget kommer jag dock använda mig av en äldre variant av paterson framkallningsdosa som jag hittade på en loppis för några år sedan för den hiskeliga summan 20kr.**
 
+{{< figure src="/svframkall/standarddosa.jpg" alt="patersons standarddosa" position="center" style="border-radius: 8px;" caption="det här är den modell de flesta använder. den är inte så olik den jag använder i det här exemplet." captionPosition="right" captionStyle="color: darkblue;" >}}
+
+
 skillnaden mellan den här och den du antagligen skaffar om du köper en är att den här dosan endast har en spole. den fungerar därför väldigt bra till snabba framkallningar av enstaka rullar.
+
 
 utöver dosan behöver du också kemikalier att framkalla med. vi kan börja med det viktigaste.
 
@@ -62,9 +68,16 @@ utöver dosan behöver du också kemikalier att framkalla med. vi kan börja med
 ---
 
 >**framkallaren - adox rodinal. kostnad: ungefär 180kr.**
-{{< figure src="/svframkall/rodinal.jpg" alt="adox rodinal framkallningsvätska" position="center" style="border-radius: 8px;" caption="min framkallare of choice." captionPosition="right" captionStyle="color: darkblue;" >}}
+{{< figure src="/svframkall/rodinal.jpg" alt="" position="center" style="border-radius: 8px;" caption="min framkallare of choice." captionPosition="right" captionStyle="color: darkblue;" >}}
+**adox rodinal framkallningsvätska. mycket gammalt recept, håller för evigt och är billig räknat till kostnaden per bild.**
 
-alla svartvita framkallare skiljer sig lite och ingen ger identiskt resultat. eftersom syftet i den här guiden är att lära ut grundläggande kunskaper kring framkallning och förhoppningsvis uppmuntra nybörjare att ge sig in i det är rodinal ett utmärkt val. men varför?
+alla svartvita framkallare skiljer sig lite och ingen ger identiskt resultat. 
+
+**väljer du att använda adox rodinal rekommenderar jag mycket starkt att du införskaffar dig en liten spruta, som denna**
+
+https://www.nijmegenpasfotofilm.nl/shop/film-chemistry-darkroom-products/braun-products/braun-omnifix-10ml-syringe/
+
+eftersom syftet i den här guiden är att lära ut grundläggande kunskaper kring framkallning och förhoppningsvis uppmuntra nybörjare att ge sig in i det är rodinal ett utmärkt val. men varför?
 
 ---
 - rodinal är en av de äldsta framkallare som finns med ett recept som är över 120 år gammalt och därför kan man verkligen säga att det är 'tried and tested' 
@@ -88,7 +101,8 @@ från början tillverkades rodinal av det tyska företaget agfa som var väldigt
 ---
 
 >**fixer - fomafix. kostnad: ungefär 100kr.**
-{{< figure src="/svframkall/fix.jpg" alt="fomafix fixer" position="center" style="border-radius: 8px;" caption="mitt förstahandsval för billig fixer." captionPosition="right" captionStyle="color: darkblue;" >}}
+{{< figure src="/svframkall/fix.jpg" alt="fomafix fixer" position="center" style="border-radius: 8px;" caption="" captionPosition="right" captionStyle="color: darkblue;" >}}
+**mitt förstahandsval för billig fixer.**
 
 återigen har jag gjort valet av fixer efter kostnadskalkyl. fomafix tillverkas av företaget foma som också bland annat tillverkar en variant av rodinal samt filmer som fomapan och retropan.
 
@@ -114,7 +128,8 @@ fomapan är forna tjeckoslovakiens statliga tillverkare av film, kemi och fotout
 ---
 
 >**stoppbad - hemtillverkad. kostnad: några enstaka kronor.**
-{{< figure src="/svframkall/stopp.jpg" alt="hemmagjort stoppbad - vatten och ättika" position="center" style="border-radius: 8px;" caption="det är mycket enkelt att göra stoppbadet hemma eftersom det bara består av utspädd ättiksyra." captionPosition="right" captionStyle="color: darkblue;" >}}
+{{< figure src="/svframkall/stopp.jpg" alt="hemmagjort stoppbad - vatten och ättika" position="center" style="border-radius: 8px;" caption="" captionPosition="right" captionStyle="color: darkblue;" >}}
+**det är mycket enkelt att göra stoppbadet hemma eftersom det bara består av utspädd ättiksyra**
 
 stoppbadet är till för att, precis som det låter som, stoppa framkallningen. det går att hoppa över förutsatt att man sköljer filmen tillräckligt många gånger och tillräckligt noggrant, men det rekommenderas starkt.
 
@@ -129,8 +144,32 @@ därför har jag istället valt att fylla en flaska med vatten och sedan hälla 
 - - du kan därför enkelt blanda eget stoppbad med lite vatten och en skvätt ättika
 ---
 
+
+> **sköljmedel - kodak photo-flo. kostnad: säljs inte längre, men adox adoflo kostar runt 180kr**
+{{< figure src="/svframkall/flo.jpg" alt="kodak photo-flo" position="center" style="border-radius: 8px;" caption="" captionPosition="right" captionStyle="color: darkblue;" >}}
+**kodak photo-flo.**
+
+sköljmedel är det sista du tillsätter i framkallningsprocessen och fungerar ungefär som diskmedel. man tillsätter bara några enstaka droppar i framkallningens sista skede. man använder det eftersom det underlättar för filmen att torka. risken att råka ut för vattenfläckar och liknande är mycket mindre om man använder ett sköljmedel.
+
+det är precis som stoppbadet helt frivilligt. bor man, likt mig, i ett område med väldigt hårt vatten med hög kalkhalt är det mer eller mindre nödvändigt. i den länkar jag kommer bifoga nedan råder jag dig som läser att köpa adox adoflo, eftersom kodak photo-flo tyvärr nästan alltid är slut överallt.
+
+för rimlig dosering använder jag även här en spruta. dock viktigt att inte använda en och samma spruta till båda vätskorna.
+
+**köp inom eu (samma som på bilden)**
+- https://www.nijmegenpasfotofilm.nl/shop/film-chemistry-darkroom-products/adox-products/adox-adoflo-ii-wetting-agent-500ml-concentrate/
+
+**köp i sverige**
+- https://www.gofoto.se/kamera-foto/analogt/morkrum/adox-adoflo-ii-100-ml-concentrate
+
+
 > **termometer - adox. kostnad: ungefär 60kr**
-{{< figure src="/svframkall/termometer.jpg" alt="mörkrumstermometer" position="center" style="border-radius: 8px;" caption="mörkrumstermometer." captionPosition="right" captionStyle="color: darkblue;" >}}
+{{< figure src="/svframkall/termometer.jpg" alt="termometer" position="center" style="border-radius: 8px;" caption="" captionPosition="right" captionStyle="color: darkblue;" >}}
+**mörkrumstermometer, liten och behändig.**
+
+att hålla rätt temperatur är väldigt viktigt om man skall framkalla. svartvit film är inte i närheten lika känslig som färgfilm och det spelar därför ingen större roll om du framkallar i 19 respektive 21 grader, även om riktlinjen är 20 grader. det råkar alltså landa i att temperaturen som krävs av framkallaren och fixern är densamma som normal rumstemperatur.
+
+det föreligger självklart inga hinder mot att helt enkelt använda sig av en vanlig kökstermometer.
+
 
 **köp inom eu (samma som på bilden)**
 - https://www.nijmegenpasfotofilm.nl/shop/film-chemistry-darkroom-products/adox-products/darkroom-adox-thermometer-small-nomercury/
@@ -138,5 +177,9 @@ därför har jag istället valt att fylla en flaska med vatten och sedan hälla 
 **köp i sverige**
 - https://www.gofoto.se/kamera-foto/analogt/morkrum/small-bw-thermometer-without-mercury
 
+---
 
->**nu måste jag gå ut med min hund, men fortsättning följer!**
+# **uppskattad kostnad för allt --- 875kr.** nu till det kostsammaste. din tid.
+
+# fortsättning hittar du i [nästa inlägg](/posts/svframkallningprocess)
+
