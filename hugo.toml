@@ -14,12 +14,12 @@ paginate = 5
     [languages]
   [languages.en.params]
     title = "analog-riktning"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "personlig blogg-katalog över analoga ting och processer"
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
+    menuMore = "visa mer"
+    readMore = "läs mer"
+    readOtherPosts = "läs andra inlägg"
 
     [languages.en.params.logo]
       logoText = "analog // riktning"
