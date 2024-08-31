@@ -100,7 +100,7 @@ för att påbörja framkallningen behöver man så klart först fylla den laddad
 jag kör nästan alltid med ilford hp5+ vars iso-basvärde är 400. jag underexponerar alltid med ett stopp ljus, och ställer alltså in kameran på iso 800. gör man det måste man då justera för det i framkallningsprocessen.
 
 hur länge just du behöver framkalla framgår här:
-- https://www.digitaltruth.com/devchart.php?Film=&Developer=Rodinal&mdc=Search
+- https://www.digitaltruth.com/devchart.php
 
 i det här schemat kan man t.ex. se att ilford hp5+ har följande:
 
@@ -142,14 +142,6 @@ då var det dags för det absolut sista steget (om man räknar bort att hänga b
 du kan nu ta av locket från dosan och skölja filmen i ljummet vatten. gör det i ganska många omgågnar. tillsätt till sist lite kodak photo-flo, adox adoflo eller till och med bara en droppe diskmedel och skölj sedan filmen tills det slutar löddra. det hjälper filmen att torka snabbare och framför allt att undvika vatten- och kalkfläckar.
 
 
----
----
----
----
----
----
-{{< figure src="/svframkall/.jpg" alt="" position="center" style="border-radius: 8px;" caption="." captionPosition="right" captionStyle="color: darkblue;" >}}
+**häng nu upp filmen på tork i några timmar och sen är hela processen klar**.
 
-{{< figure src="/svframkall/.jpg" alt="" position="center" style="border-radius: 8px;" caption="." captionPosition="right" captionStyle="color: darkblue;" >}}
 
-{{< figure src="/svframkall/.jpg" alt="" position="center" style="border-radius: 8px;" caption="." captionPosition="right" captionStyle="color: darkblue;" >}}
