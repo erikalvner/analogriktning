@@ -4,6 +4,7 @@ date= "2024 // 08 // 25"
 author= "erik alvner"
 hideComments= true
 cover= "/smakameror/voigtlanderbessar2.jpg"
+draft= true
 +++
 
 ## varför sajten?

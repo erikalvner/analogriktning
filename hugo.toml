@@ -31,12 +31,12 @@ paginate = 5
   creator = "erikalvner"
   site = "erikalvner"
 
-[languages.en.menu]
-  [[languages.en.menu.main]]
-    identifier = "om"
-    name = "om"
-    url = "/om"
-  [[languages.en.menu.main]]
-    identifier = "varfor"
-    name = "varför?"
-    url = "/varfor"
+#[languages.en.menu]
+ # [[languages.en.menu.main]]
+ #   identifier = "om"
+ #   name = "om"
+ #   url = "/om"
+#  [[languages.en.menu.main]]
+ #   identifier = "varfor"
+ #   name = "varför?"
+ #   url = "/varfor"

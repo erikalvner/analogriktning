@@ -3,10 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-30T16:38:35+02:00</lastmod>
+    <lastmod>2024-08-31T13:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/svframkallningprocess/</loc>
+    <lastmod>2024-08-31T13:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-30T16:38:35+02:00</lastmod>
+    <lastmod>2024-08-31T13:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/svframkallning/</loc>
+    <lastmod>2024-08-30T16:39:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/svframkallninglista/</loc>
+    <lastmod>2024-08-30T16:39:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/battleofthetiny/</loc>
     <lastmod>2024-08-29T05:44:35+02:00</lastmod>
@@ -16,9 +25,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/samsung/</loc>
     <lastmod>2024-08-25T15:58:41+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/husvagn/</loc>
-    <lastmod>2024-08-25T15:34:09+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/sony/</loc>
     <lastmod>2024-08-25T13:54:49+02:00</lastmod>
@@ -30,7 +36,5 @@
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/showcase/</loc>
-  </url><url>
-    <loc>http://localhost:1313/varfor/</loc>
   </url>
 </urlset>
