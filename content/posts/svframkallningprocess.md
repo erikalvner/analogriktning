@@ -142,6 +142,15 @@ då var det dags för det absolut sista steget (om man räknar bort att hänga b
 du kan nu ta av locket från dosan och skölja filmen i ljummet vatten. gör det i ganska många omgågnar. tillsätt till sist lite kodak photo-flo, adox adoflo eller till och med bara en droppe diskmedel och skölj sedan filmen tills det slutar löddra. det hjälper filmen att torka snabbare och framför allt att undvika vatten- och kalkfläckar.
 
 
-**häng nu upp filmen på tork i några timmar och sen är hela processen klar**.
+**häng nu upp filmen på tork i några timmar**.
 
+---
+
+# efter det är processen klar.
+
+**du kan då förstora bilderna eller skanna in dem digitalt**. mer om digital skanning kommer i nästa inlägg.
+
+{{< figure src="/svframkall/hjordis-0.jpg" alt="bullterrier" position="center" style="border-radius: 8px;" caption="min bullterrier, hjördis." captionPosition="right" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/svframkall/hjordis-1.jpg" alt="bullterrier" position="center" style="border-radius: 8px;" caption="min bullterrier, hjördis. igen." captionPosition="right" captionStyle="color: darkblue;" >}}
 
