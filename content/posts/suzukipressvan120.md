@@ -38,7 +38,7 @@ likt leicas allra tidigaste kameror (alltså samtliga innan deras leica m3) har 
 
 {{< figure src="/suzukipressvan/rangeview.jpg" alt="" position="center" style="border-radius: 8px;" caption="mätsökaren och komponeringssökaren" captionPosition="center" captionStyle="color: darkblue;" >}}
 
-sökaren som används för fokusering har en mycket smalare brännvidd än den sökare man komponerar bilden i. även om det blir något av ett extra steg gör detta att man mycket lättare kan ta rätt fokus med kameran. eftersom jag sällan tänker mig att jag kommer ta med en mellanformatskamera för att ta bilder på språng där extrem snabbhet är ett krav ser jag inte detta som något hinder. gör du det däremot kan något som t.ex. weltas weltur vara ett bättre alternativ, en tysk kamera från 1930-talet där mätsökaren är inbyggd i komponeringssökaren.
+sökaren som används för fokusering har en mycket längre brännvidd än den sökare man komponerar bilden i. även om det blir något av ett extra steg gör detta att man mycket lättare kan ta rätt fokus med kameran. eftersom jag sällan tänker mig att jag kommer ta med en mellanformatskamera för att ta bilder på språng där extrem snabbhet är ett krav ser jag inte detta som något hinder. gör du det däremot kan något som t.ex. weltas weltur vara ett bättre alternativ, en tysk kamera från 1930-talet där mätsökaren är inbyggd i komponeringssökaren.
 
 mätsökaren är tydlig och enkelt att använda på kameran. komponeringssökaren är något svårare och jag hade gärna sett att den var snäppet större.
 
