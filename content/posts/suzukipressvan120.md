@@ -44,6 +44,22 @@ mätsökaren är tydlig och enkelt att använda på kameran. komponeringssökare
 
 ---
 
+### skärpan
+
+kommer nämna det under nästa rubrik, men hjärnan bakom kameran arbetade först med att rita optik för asahi, sedemera pentax. 
+
+här följer en bild tagen med kameran:
+
+{{< figure src="/suzukipressvan/bilhus2.jpg" alt="" position="center" style="border-radius: 8px;" caption="en gammal bil utanför mitt lägenhetshus" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/suzukipressvan/skarp.jpg" alt="" position="center" style="border-radius: 8px;" caption="inzoomat på bilen från bilden ovan" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+trots att jag skannar in bilderna med en 15 år gammal kamera kan man tydligt se hur skarpt objektivet är. kameran tar riktigt vassa bilder och man blir sällan nedlåten när man framkallar och skannar in bilder från den. 
+
+än så länge har jag bara dragit två rullar genom den, en med 6x6 och en med kamerans 6x4,5 mask. några av dessa bilder går att se allra längst ner i inlägget.
+
+---
+
 ### kamerans historia
 
 kameran är en av få kameror som tillverkades av suzuki optical company i 1950-talets japan. ryohei suzuki, som bildade företaget, arbetade först på asahi som sedemera kom att ombildas till pentax. hans arbete bestod där i att ta fram optik, någonting han tydligen var väldigt duktig på. under den perioden tillverkade asahi endast småbildskameror (35mm) och nä ryohei önskade göra en mellanformatskamera anpassad för pressfoto fick han därför bilda sitt eget företag. kameran tillverkades först som 6x6 med en iläggsmask som möjliggjorde att även fota småbild med kameran och hette då endast suzuki press van.
@@ -70,7 +86,7 @@ eftersom kameran är kapabel att fota i både [6x6](#6x6) och [6x4,5](#6x45) kom
 
 {{< figure src="/suzukipressvan/symaskin2.jpg" alt="" position="center" style="border-radius: 8px;" caption="min vän ivar vid sin symaskin" captionPosition="center" captionStyle="color: darkblue;" >}}
 
-{{< figure src="/suzukipressvan/bilhus2.jpg" alt="" position="center" style="border-radius: 8px;" caption="en gammal bil utanför mitt lägenhetshus" captionPosition="center" captionStyle="color: darkblue;" >}}
+{{< figure src="/suzukipressvan/fatolj2.jpg" alt="" position="center" style="border-radius: 8px;" caption="en gammal bil utanför mitt lägenhetshus" captionPosition="center" captionStyle="color: darkblue;" >}}
 
 ### 6x6
 
