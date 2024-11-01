@@ -55,6 +55,16 @@ mitt exemplar har tyvärr inte något av de bättre objektiven som jag enligt ef
 
 ---
 
+#### Omoderna funktioner
+
+{{< figure src="/ikoflex1/double.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+bilden ovan är en dubbelexponering av misstag. Kameran har ingen automatisk framrullningsfunktion som många nyare kameror har. du måste alltså kolla i den lilla röda rutan på baksidan för att på filmens baksidepapper avläsa när du har rullat fram till nästa bild. utöver det har den heller ingen låsfunktion för dubbelexponeringar. många av mina andra kameror, som t.ex. min voigtländer perkeo i, låser helt enkelt slutaren om man inte vrider fram filmen några varv. den räknar inte heller filmen automatiskt, men det finns alltså en kontrollmekanism för att förhindra omedvetna dubbelexponeringar. 
+
+Ibland kan det, som i bilden ovan, bli en lite rolig eller mysig effekt av det. Allt som oftast råkar man bara förstöra två bilder. Min rekommendation är att man **ALLTID** vrider fram filmen direkt efter att man tar ett foto, men även det är inte en helt vattentät strategi, uppenbarligen.  
+
+---
+
 ### bilder
 
 
@@ -106,4 +116,31 @@ jag köpte den här kameran filmtestad på tradera för 265kr. är du intressera
 
 mellanformat verkar passa mig lite bättre än 35mm och jag kommer således antagligen att införskaffa mig en lite bättre kamera framöver. men med tanke på de hutlösa priserna som vettiga mellanformatskameror betingar så är det här definitivt en fantastisk deal om man vill vada sig fram och testa på det utan att för den skull bränna 5 000 spänn på en rolleiflex.
 
-det är inte en kamera jag hade velat använda för alltid. men som inkörsport till mellanformat - en fantastisk liten kamera. hittar du en på en loppis eller på tradera för under 500 spänn är det helt klart värt att köpa och testa.
+~~det är inte en kamera jag hade velat använda för alltid.~~ men som inkörsport till mellanformat - en fantastisk liten kamera. hittar du en på en loppis eller på tradera för under 500 spänn är det helt klart värt att köpa och testa.
+
+som antagligen sista uppdatering till det här blogginlägget tar jag tillbaka vad jag sa om att det inte är en kamera jag hade velat använda för alltid. eftersom den saknar skydd mot dubbelexponeringar och är bättre för exakt komponering än vad en mätsökarkamera är kommer jag att behålla kameran. i de stunder jag önskar göra dubbelexponeringar i kameran är det här den självklara kameran jag kommer att sträcka mig efter, framför allt efter att min nikon fe2, som innan hållit samma status, nyligen gick sönder.
+
+---
+---
+---
+### Fler bilder 
+---
+---
+---
+
+
+>Här tänker jag bara att jag lägger in en rad olika bilder jag har tagit med kameran i olika situationer så att man lättare ser hur den faktiskt ter sig som en vardagskamera. Inga kommentarer ges.
+
+{{< figure src="/ikoflex1/bar.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/ikoflex1/friend.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/ikoflex1/friend2.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/ikoflex1/house.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/ikoflex1/solros.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/ikoflex1/pumpkin.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/ikoflex1/garden.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
